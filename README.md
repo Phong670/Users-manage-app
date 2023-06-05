@@ -1,6 +1,6 @@
 ## Users-manage-app
 Users-manage-app is a exercise in programing class. This web application allows
-user CRUD their task
+user CRUD a user as name, age, salary
 
 ## How to use it 
 - Install `Nodejs` - version 18.12.1  
