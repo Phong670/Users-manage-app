@@ -1,0 +1,36 @@
+* {
+  /* font-family: "SVN-Gilroy"; */
+  font-weight: 500;
+  /* font-size: 14px !important; */
+  box-sizing: border-box;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  background-color: #e5f5f599;
+  min-height: 100vh;
+}
+.ant-modal {
+  width: 555px !important;
+}
+.ant-btn {
+  background-color: #ffffff !important;
+  color: #ff872f !important;
+}
+
+.ant-table-cell {
+  text-align: center !important;
+}
+.ant-table-thead > tr > th {
+  text-align: center !important;
+}
