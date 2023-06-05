@@ -1,4 +1,4 @@
-## Yody_fashion_reactjs_project
+## Users-manage-app
 Users-manage-app project is a exercise in programing class. This web application allows
 user CRUD their task
 
